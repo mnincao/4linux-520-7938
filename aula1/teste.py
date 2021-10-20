@@ -1,0 +1,1 @@
+print("4Linux:", "Open Software", "Specialists")
