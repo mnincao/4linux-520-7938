@@ -1,7 +1,7 @@
 def hello(nome):
-    print(nome)
+    print(f'Ola {nome}! Tudo bem com voce?')
     return hello
-hello(marcelo)
+hello('marcelo')
 
 
 
