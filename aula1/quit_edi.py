@@ -62,4 +62,8 @@ while True:
         calcula()
 
     else:
-        print("Digite uma opção válida.")
+            print("Digite uma opção válida.")
+
+
+
+            
