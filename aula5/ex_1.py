@@ -3,14 +3,15 @@
 # Dica: Não se esqueça de considerar as letras maiúsculas, minúsculas e com acentuação.
 
 def contar_vogais():
-    vogais = {
-        'a': 0,
-        ...
-    }
+    pass
+    #vogais = {
+     #   'a': 0,
+     #   ...
+   # }
 
-    ...
+    #...
 
-    return vogais
+    #return vogais
 
 def main():
     pass
